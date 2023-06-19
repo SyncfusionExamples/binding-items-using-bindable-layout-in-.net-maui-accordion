@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccordionBindableLayout", "AccordionBindableLayout.csproj", "{B837B47B-3B2C-44E7-9F46-130593E5F5AB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Syncfusion.Maui.Expander", "..\..\..\AccordionVSM\maui-accordion\maui\src\expander\Syncfusion.Maui.Expander.csproj", "{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccordionBindableLayout", "AccordionBindableLayout\AccordionBindableLayout.csproj", "{B837B47B-3B2C-44E7-9F46-130593E5F5AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +21,6 @@ Global
 		{B837B47B-3B2C-44E7-9F46-130593E5F5AB}.Release-Xml|Any CPU.ActiveCfg = Release|Any CPU
 		{B837B47B-3B2C-44E7-9F46-130593E5F5AB}.Release-Xml|Any CPU.Build.0 = Release|Any CPU
 		{B837B47B-3B2C-44E7-9F46-130593E5F5AB}.Release-Xml|Any CPU.Deploy.0 = Release|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Release-Xml|Any CPU.ActiveCfg = Release-Xml|Any CPU
-		{78FC1B25-F6E7-4476-926C-D1FAE9FFA851}.Release-Xml|Any CPU.Build.0 = Release-Xml|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
